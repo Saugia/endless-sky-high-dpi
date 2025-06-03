@@ -125,6 +125,17 @@ Comment: Incorporating a photo by Aram Dulyan, under the CC-BY-2.0 license.
 
 Files:
  images/outfit/cloud?piercer*
+ iamges/outfit/heavy?blaster*
+ images/ship/quarg?guivre*
+ images/ship/quarg?hydra*
+ images/ship/quarg?lindwyrm*
+ images/ship/quarg?wardragon*
+ images/ship/quarg?wyvern*
+ images/thumbnail/quarg?guivre*
+ images/thumbnail/quarg?hydra*
+ images/thumbnail/quarg?lindwyrm*
+ images/thumbnail/quarg?wardragon*
+ images/thumbnail/quarg?wyvern*
 Copyright: 1010todd
 License: CC-BY-SA-4.0
 
@@ -334,6 +345,13 @@ License: CC-BY-SA-4.0
 Comment: Derived and completed from works by Maximilian Korber (Wrzlprnft), @Karirawri, and originally drawn up by Tommy Thach (Bladewood) (all under the same license)
 
 Files:
+ images/hardpoint/quarg?ribault*
+ images/outfit/quarg?ribault*
+Copyright: <https://github.com/Saugia>
+License: CC-BY-SA-4.0
+Comment: Derived and completed from works by Evan Fluharty, Maximilian Korber (Wrzlprnft), @Karirawri, and originally drawn up by Tommy Thach (Bladewood) (all under the same license)
+
+Files:
  images/outfit/enforcer?riot?staff*
 Copyright: 1010todd
 Comment: Derived from works by Evan Fluharty (Evanfluharty@gmail.com)
@@ -373,6 +391,23 @@ License: CC-BY-SA-3.0
 Comment: Taken from https://commons.wikimedia.org/wiki/File:Preamplifier_at_the_National_Ignition_Facility.jpg
 
 Files:
+ images/effect/asteroid?adult?flare*
+ images/effect/asteroid?adult?2?flare*
+ images/effect/asteroid?adult?3?flare*
+ images/effect/asteroid?adult?4?flare*
+ images/effect/asteroid?adult?5?flare*
+ images/effect/asteroid?medium?flare*
+ images/effect/asteroid?young?flare*
+ images/effect/asteroid?young?2?flare*
+ images/effect/asteroid?young?3?flare*
+ images/effect/asteroid?young?4?flare*
+ images/effect/asteroid?am?circle?defense*
+ images/effect/asteroid?am?fire*
+ images/effect/asteroid?circle?trail*
+ images/effect/asteroid?glow*
+ images/effect/asteroid?laser*
+ images/effect/asteroid?projectile?print*
+ images/effect/asteroid?projectile?static*
  images/hardpoint/javelin?turret*
  images/planet/station1*
  images/planet/station2*
@@ -389,6 +424,8 @@ Files:
  images/planet/station16*
  images/planet/station17*
  images/planet/station-bunrodea*
+ images/planet/station-chanai*
+ images/planet/penrose-machine*
  images/ship/maeri'het*
  images/ship/subsidurial*
  images/ship/telis'het*
@@ -526,6 +563,7 @@ Files:
  images/scene/ringworld?debris*
  images/scene/remnant?station*
  images/scene/asteroid?scene*
+ images/scene/lab?scene*
  images/planet/debris0*
  images/planet/debris1*
  images/planet/desert11*
@@ -787,6 +825,11 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by the National Nuclear Security Administration.
 
 Files:
+ images/effect/graviton?flare/*
+Copyright: Jack George
+License: CC-BY-SA-4.0
+
+Files:
  images/projectile/*tinyflare*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
@@ -910,6 +953,17 @@ Files:
  images/ship/pug?maboro*
  images/ship/pug?arfecta*
  images/ship/shooting?star/shooting?star*
+ images/ship/asteroid?adult*
+ images/ship/asteroid?adult?2*
+ images/ship/asteroid?adult?3*
+ images/ship/asteroid?adult?4*
+ images/ship/asteroid?adult?5*
+ images/ship/asteroid?medium*
+ images/ship/asteroid?young*
+ images/ship/asteroid?young?2*
+ images/ship/asteroid?young?3*
+ images/ship/asteroid?young?4*
+ images/ship/remnant?satellite*
  images/thumbnail/ibis*
  images/thumbnail/hai?anomalocaris*
  images/thumbnail/hai?sea?scorpion*
@@ -2036,6 +2090,13 @@ License: public-domain
  Taken from Wikimedia Commons. Cropped and edited.
 
 Files:
+ images/land/station60*
+Copyright: Adrien Olichon
+License: CC0
+Comment:
+ Taken from https://www.pexels.com/photo/building-interior-2817472/. Cropped and edited.
+
+Files:
  images/land/lava0*
 Copyright: USGS
 License: public-domain
@@ -2401,6 +2462,7 @@ Files:
  images/effect/fissionflare*
  images/effect/pwtflare*
  images/effect/nuke*
+ images/effect/ranseur*
  images/icon/dragonflame*
  images/icon/shard*
  images/outfit/dragonflame*
@@ -2420,6 +2482,7 @@ Files:
  images/projectile/shardactive*
  images/projectile/shardinactive*
  images/projectile/ionball*
+ images/projectile/ribault*
  images/scene/emeraldswordderelict*
  images/ship/emeraldsword*
  images/ship/blackdiamond*
@@ -2629,6 +2692,7 @@ Files:
  images/projectile/korath?inferno*
  images/projectile/missile-0*
  images/projectile/missile-1*
+ images/projectile/slipstream?projector*
  images/ship/battleship*
  images/star/coal-black-hole*
  images/star/neutron*
@@ -2805,6 +2869,8 @@ Comment: Derived from works by Evan Fluharty (under the same license).
 Files:
  images/outfit/gat?turret?hardpoint*
  images/outfit/gat?turret*
+ images/ship/jackal*
+ images/thumbnail/jackal*
 Copyright: bene_dictator <benstaples8068@gmail.com>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license), detailed by Saugia.
@@ -2956,6 +3022,7 @@ Files:
  images/ship/hauler?vi*
  images/ship/heavy?gust*
  images/ship/mining?drone*
+ images/ship/monitor*
  images/ship/mule*
  images/ship/squall*
  images/ship/sunder*
@@ -2966,6 +3033,7 @@ Files:
  images/thumbnail/hauler?vi*
  images/thumbnail/heavy?gust*
  images/thumbnail/mining?drone*
+ images/thumbnail/monitor*
  images/thumbnail/mule*
  images/thumbnail/squall*
  images/thumbnail/sunder*
@@ -2973,6 +3041,13 @@ Files:
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ images/ship/quarg?drake*
+ images/thumbnail/quarg?drake*
+Copyright: Saugia (https://github.com/Saugia)
+License: CC-BY-SA-4.0
+Comment: Derived from works by 1010todd, under the same license.
 
 Files:
  images/ship/pirate?valkyrie*
@@ -3620,6 +3695,11 @@ Copyright: USGS
 License: public-domain
  From the USGS, and therefore in the public domain because it was created by
  government employees while doing work for the government.
+
+Files:
+ images/ui/paused*
+Copyright: David Stark (zarkonnen@gmail.com)
+License: CC-BY-SA-4.0
 
 License: Depends
  Taken from unsplash.com. Until June 2017, this was a collection of photographs that had been donated and
